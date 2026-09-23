@@ -1,4 +1,4 @@
-# Farm for the Future — Green Carbon Track B
+# Farm for the Future 
 
 **Automated farmer-to-land matching system for J-Credit carbon registry compliance**
 
