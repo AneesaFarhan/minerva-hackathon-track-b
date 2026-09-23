@@ -137,4 +137,4 @@ Input files (`data/`) are loaded automatically. Outputs written to the working d
 
 ## Authors
 
-Built for the **Minerva Hackathon**
+Built for the **Minerva Hackathon - Green Carbon Track B**
