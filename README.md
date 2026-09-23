@@ -1,7 +1,8 @@
-# Farm for the Future 
+# Farm for the Future
 
 **Automated farmer-to-land matching system for J-Credit carbon registry compliance**
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-blue)](https://aneesafarhan.github.io/minerva-hackathon-track-b/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-farmmatchertool.netlify.app-brightgreen)](https://farmmatchertool.netlify.app/)
 
 ---
@@ -16,7 +17,7 @@ Built for the **Minerva Hackathon Green Carbon Track B**, the system pairs rigor
 
 ## Live Demo
 
-**[https://img.shields.io/badge/Live%20Demo-farmmatchertool.netlify.app-brightgreen)](https://farmmatchertool.netlify.app/)**
+**[https://aneesafarhan.github.io/minerva-hackathon-track-b/](https://aneesafarhan.github.io/minerva-hackathon-track-b/)**
 
 The interactive dashboard lets you explore:
 - Farmer-to-polygon assignments on a live Leaflet map
@@ -67,7 +68,7 @@ Bootstrap resampling validates matching robustness under 2–20% measurement noi
 ## Repository Structure
 
 ```
-Minerva-Hackathon-Track-B/
+minerva-hackathon-track-b/
 ├── index.html              # Interactive dashboard (Leaflet map, charts, review queue)
 ├── notebook/
 │   └── farm_matcher_real.ipynb   # Full Python matching algorithm
@@ -136,4 +137,4 @@ Input files (`data/`) are loaded automatically. Outputs written to the working d
 
 ## Authors
 
-Built for the **Minerva Hackathon — Green Carbon Track B**
+Built for the **Minerva Hackathon**
