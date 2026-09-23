@@ -3,7 +3,6 @@
 **Automated farmer-to-land matching system for J-Credit carbon registry compliance**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-farmmatchertool.netlify.app-brightgreen)](https://farmmatchertool.netlify.app/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-blue)](https://saadt127.github.io/Minerva-Hackathon-Track-B/)
 
 ---
 
