@@ -16,7 +16,7 @@ Built for the **Minerva Hackathon Green Carbon Track B**, the system pairs rigor
 
 ## Live Demo
 
-**[https://saadt127.github.io/Minerva-Hackathon-Track-B/](https://saadt127.github.io/Minerva-Hackathon-Track-B/)**
+**[https://img.shields.io/badge/Live%20Demo-farmmatchertool.netlify.app-brightgreen)](https://farmmatchertool.netlify.app/)**
 
 The interactive dashboard lets you explore:
 - Farmer-to-polygon assignments on a live Leaflet map
